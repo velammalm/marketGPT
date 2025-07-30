@@ -10,7 +10,8 @@ This sample demonstrates a few approaches for creating marketGPT over your own d
 The repo includes public data so it's ready to try end to end. In this sample application we use publicly crawled data only.
 All data goes under data folder
 
-![RAG Architecture](docs/appcomponents.png)
+<img width="910" height="430" alt="image" src="https://github.com/user-attachments/assets/1a9c5e12-19ae-40b3-a15a-1780ff635277" />
+
 
 
 
