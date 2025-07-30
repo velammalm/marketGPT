@@ -47,7 +47,8 @@ Execute the following command, if you don't have any pre-existing Azure services
 1. After the application has been successfully deployed you will see a URL printed to the console.  Click that URL to interact with the application in your browser.
 It will look like the following:
 
-!['Output from running azd up'](assets/endpoint.png)
+<img width="688" height="150" alt="image" src="https://github.com/user-attachments/assets/e844903a-4aa0-4408-bb25-e7087106f861" />
+
 
 > NOTE: It may take 5-10 minutes for the application to be fully deployed. If you see a "Python Developer" welcome screen or an error page, then wait a bit and refresh the page.
 
