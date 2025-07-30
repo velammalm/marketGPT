@@ -396,7 +396,7 @@ taskgroup==0.2.2
     # via hypercorn
 tenacity==9.0.0
     # via -r requirements.in
-tiktoken==0.8.0
+tiktoken==0.9.0
     # via
     #   -r requirements.in
     #   opentelemetry-instrumentation-openai
